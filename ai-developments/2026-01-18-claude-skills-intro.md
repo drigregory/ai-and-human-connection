@@ -1,4 +1,22 @@
-# I cut a 30-minute compliance task to 5 minutes using Claude Skills
+---
+layout: single
+title: "An Introduction to Claude Skills"
+date: 2026-01-18
+excerpt: "How I cut a 30-minute vendor due diligence task to 5 minutes using Claude Skills."
+author_profile: true
+toc: true
+toc_sticky: true
+read_time: true
+sidebar:
+  nav: "sidebar"
+categories:
+  - AI Developments
+tags:
+  - Claude
+  - Skills
+  - Automation
+  - Productivity
+---
 
 ## Executive Summary
 
