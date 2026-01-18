@@ -1,4 +1,17 @@
-# AI and Human Connection in Accountancy
+---
+layout: home
+title: "AI and Human Connection in Accountancy"
+excerpt: "How accounting firms can thrive through AI mastery and human connection"
+header:
+  overlay_color: "#1a365d"
+  overlay_filter: "0.5"
+  actions:
+    - label: "Read the Framework"
+      url: "/ai-impact-on-society/"
+    - label: "FAQ"
+      url: "/faq/"
+author_profile: true
+---
 
 **Thesis:** AI is going to have massive repercussions for the Accountancy sector in the next few years. Accounting firms need to recognise that their business model needs to change - they need to get really good at managing AIs, and they need to become incredible at the one skill AI cannot master – Human Connection. Building rapport and trust with clients, communicating complex judgments and providing strategic counsel will become the only thing that differentiates firms – those who get it right will thrive.
 
