@@ -1,6 +1,6 @@
 # What is happening with AI and how can I use it?
 
-Updates on the latest developments in AI andpPractical insights from implementing AI transformation at Advancetrack.
+Updates on the latest developments in AI and practical insights from implementing AI transformation at Advancetrack.
 
 ---
 
