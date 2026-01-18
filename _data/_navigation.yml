@@ -1,0 +1,33 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "AI Impact"
+    url: /ai-impact-on-society/
+  - title: "AI Developments"
+    url: /ai-developments/
+  - title: "Human Connection"
+    url: /human-connection/
+  - title: "Implementation"
+    url: /implementation/
+  - title: "FAQ"
+    url: /faq/
+  - title: "About"
+    url: /about/
+
+sidebar:
+  - title: "Core Themes"
+    children:
+      - title: "AI Impact on Society"
+        url: /ai-impact-on-society/
+      - title: "AI Developments"
+        url: /ai-developments/
+      - title: "Human Connection"
+        url: /human-connection/
+      - title: "Implementation"
+        url: /implementation/
+  - title: "Resources"
+    children:
+      - title: "FAQ"
+        url: /faq/
+      - title: "About"
+        url: /about/
