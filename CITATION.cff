@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gregory
+    given-names: Ian
+    orcid: https://orcid.org/10009-0008-0787-3628
+title: "AI and the Human Connection"
+version: 1.0.0
+date-released: 2026-01-18
+url: "https://ian-gregory.com"
+repository-code: "https://github.com/drigregory/ai-and-human-connection"
+license: CC-BY-4.0
+keywords:
+ - accounting
+ - artificial intelligence
+ - human connection
+ - bookkeeping
+ - audit
+ - lean
+ - outsourcing
+abstract: "Strategic argument describing how accounting firms can thrive in an era where artificial intelligence commoditizes technical accounting work. Key to this is excelling in managing AIs and in building human connection."
