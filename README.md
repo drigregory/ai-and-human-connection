@@ -1,82 +1,45 @@
----
-layout: home
-title: "AI and Human Connection in Accountancy"
-excerpt: "How accounting firms can thrive through AI mastery and human connection"
-header:
-  overlay_color: "#1a365d"
-  overlay_filter: "0.5"
-  actions:
-    - label: "Read the Framework"
-      url: "/ai-impact-on-society/"
-    - label: "FAQ"
-      url: "/faq/"
-author_profile: true
+# AI and Human Connection in Accountancy
+
+> How accounting firms can thrive through AI mastery and human connection
+
+**[View the full site → ian-gregory.com](https://ian-gregory.com)**
+
 ---
 
-**Thesis:** AI is going to have massive repercussions for the Accountancy sector in the next few years. Accounting firms need to recognise that their business model needs to change - they need to get really good at managing AIs, and they need to become incredible at the one skill AI cannot master – Human Connection. Building rapport and trust with clients, communicating complex judgments and providing strategic counsel will become the only thing that differentiates firms – those who get it right will thrive.
+## Thesis
 
-**Author:** Dr Ian Gregory is the Chief Technology Officer of Advancetrack - an ICAEW regulated firm that is a leading global provider of outsourced services to accountants and bookkeepers. He has a career spanning engineering, management consultancy, accounting and academia, has taught MBA classes at leading UK business schools including Warwick and Bradford, and is a regular speaker at accounting conferences.
+AI is going to have massive repercussions for the Accountancy sector. Accounting firms need to get really good at managing AIs, and become incredible at the one skill AI cannot master – Human Connection.
 
-**Format:** One of the themes of my learning is how to get my content to appear in an LLM. If the format of this seems a little unusual, that is why! The content will develop over time - it is hosted in GitHub which has various options  to supply you with notifications of updates - ask an AI how to set them!
+**Author:** Dr Ian Gregory, CTO of Advancetrack
 
-**Last Updated:** 2026-01-16
-
-##Executive Summary
-I have worked in the accounting sector for the last decade and have grown to see the value it brings to the wider business community. Many small businesses have implicit trust in their accountants to protect them from what I increasingly term ‘the machine’ – the ever-growing bureaucracy and red tape that our governments and large businesses create, and the escalating cost of getting compliance wrong.  As the IT lead for a large accounting practice, I have spent a lot of time exploring the impact of new advances in AI on our industry and what I see scares me – a lot of significant change is on the way. This thesis is my contribution to making sure that accounting has a future.
-My contribution will look at three elements:
-1) The impact AI may have on society, particularly small businesses, and including accountants.
-2) What is happening in AI and what useful things can accountants learn and use. I will go deep on this with analysis of what is happening in areas like software development and how we can apply them.
-3) How do accountants communicate what they are learning to their clients to support them and maintain their ‘trusted advisor’ status. Human connection is key to the future of our industry.
-I see AI as a threat to the existing model of accounting – it will change beyond recognition in the next decade - and as an opportunity to really become indispensable to clients as the ‘trusted advisor’ – our clients are in the same position of seeing massive change and they need help. Firms that excel at this will thrive.
-
-**Key Insight:** Accounting firms optimising for efficiency are optimising for obsolescence. The ability to effectively manage AIs will be important, and the key strategic differentiator will be firms' ability to develop Human Connection.
-
-**Implication:** Accounting firms must restructure around client contact and review, not technical work delivery.
-
-## Core Argument
-
-This thesis argues that the only sustainable differentiation for accounting practices in the era of Artificial Intelligence will be their ability to develop deep, human connection with their clients.
-
-## Key Claims
-1. A substantial proportion of technical accounting work can be reduced to algorithms will be fully automated by 2030. Once AI performs 
-these at near-zero marginal cost, firms cannot compete on technical capability or efficiency.
-2. Regulators and insurers will require professional and human review on the outputs of AI for the foreseeable future. Accountants need to master AI.
-3. Firms must restructure around relationships and human connection - AI cannot compete in this.
-
-## Implementation Steps
-1. Learn about AI, where it will lead and when
-2. Plan for an AI led future with client relationships at the fore
-3. Change recruitment practices to target human connection - use Outsourcing services as a bridge.
-4. Move away from time-based billing.
-5. Get really good at managing AIs or find someone who is.
-6. Focus on clients that value deep relationships.
-7. Thrive.
+---
 
 ## Core Themes
 
-**[1. How will AI impact society and how accountants can adapt?](/ai-impact-on-society/index)**
+1. **[AI Impact on Society](ai-impact-on-society/index.md)** - How AI will affect accountants and their clients
+2. **[AI Developments](ai-developments/index.md)** - What's happening and how to use it
+3. **[Human Connection](human-connection/index.md)** - How to excel at the human element
+4. **[Implementation](implementation/index.md)** - Moving your firm to an AI-enabled, human-centred model
 
-**[2. What is happening with AI and how can I use it?](/ai-developments/index)**
+---
 
-**[3. How does an individual excel at Human Connection?](/human-connection/index)**
+## Latest Articles
 
-**[4. How do I move my firm to one that is built around Human Connection and supported by AI?](/implementation/index)**
+- [An Introduction to Claude Skills](ai-developments/2026-01-18-claude-skills-intro.md) (January 2026)
 
-**[Frequently Asked Questions](/faq)**
+---
 
-**[About me](/about)**
+## Resources
 
+- [FAQ](faq.md)
+- [About](about.md)
+- [License](LICENSE.md) (CC BY 4.0)
 
-# Content
+---
 
-## 2026
+## Citation
 
-### January
-
-**[An Introduction to Claude Skills](/ai-developments/2026-01-18-claude-skills-intro)**
-
-
-
-
-
-
+```
+Gregory, Ian. (2026). AI and Human Connection in Accountancy.
+https://ian-gregory.com
+```
