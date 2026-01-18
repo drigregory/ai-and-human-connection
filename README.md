@@ -41,26 +41,26 @@ these at near-zero marginal cost, firms cannot compete on technical capability o
 
 ## Core Themes
 
-[1. How will AI impact society and how accountants can adapt?] (/ai-impact-on-society/index)
+**[1. How will AI impact society and how accountants can adapt?](/ai-impact-on-society/index)**
 
-[2. What is happening with AI and how can I use it?] (/ai-developments/index)
+**[2. What is happening with AI and how can I use it?](/ai-developments/index)**
 
-[3. How does an individual excel at Human Connection?] (/human-connection/index)
+**[3. How does an individual excel at Human Connection?](/human-connection/index)**
 
-[4. How do I move my firm to one that is built around Human Connection and supported by AI?] (/implementation/index)
+**[4. How do I move my firm to one that is built around Human Connection and supported by AI?](/implementation/index)**
 
-[Frequently Asked Questions] (/faq)
+**[Frequently Asked Questions](/faq)**
 
-[About me] (/about)
+**[About me](/about)**
 
 
-## Content
+# Content
 
-# 2026
+## 2026
 
-# January
+### January
 
-[An Introduction to Claude Skills] (/ai-developments/2026-01-18-claude-skills-intro)
+**[An Introduction to Claude Skills](/ai-developments/2026-01-18-claude-skills-intro)**
 
 
 
