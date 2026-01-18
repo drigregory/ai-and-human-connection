@@ -1,7 +1,11 @@
 ---
-layout: default
+layout: single
 title: "AI and Human Connection in Accountancy"
-description: "How accounting firms can thrive through AI mastery and human connection"
+excerpt: "How accounting firms can thrive through AI mastery and human connection"
+author_profile: true
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 ---
 
 # AI and Human Connection in Accountancy
