@@ -1,4 +1,13 @@
-# What is happening with AI and how can I use it?
+---
+layout: single
+title: "What is happening with AI and how can I use it?"
+permalink: /ai-developments/
+author_profile: true
+toc: true
+toc_sticky: true
+sidebar:
+  nav: "sidebar"
+---
 
 Updates on the latest developments in AI and practical insights from implementing AI transformation at Advancetrack.
 
