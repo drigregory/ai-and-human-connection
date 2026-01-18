@@ -1,0 +1,116 @@
+# Site Settings
+title: "AI and Human Connection in Accountancy"
+subtitle: "How accounting firms can thrive through AI mastery and human connection"
+name: "Dr Ian Gregory"
+description: >-
+  Strategic framework for accounting transformation as AI reshapes the profession.
+  Based on a decade of experience in the accounting sector.
+url: "https://drigregory.github.io"
+baseurl: "/ai-and-human-connection"
+repository: "drigregory/ai-and-human-connection"
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"  # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Site Author
+author:
+  name: "Dr Ian Gregory"
+  bio: "CTO of Advancetrack. Career spanning engineering, management consultancy, accounting and academia. Former MBA lecturer at Warwick and Bradford."
+  location: "United Kingdom"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/YOUR-LINKEDIN"
+    - label: "Advancetrack"
+      icon: "fas fa-fw fa-building"
+      url: "https://advancetrack.com"
+
+# Reading Files
+include:
+  - _pages
+  - ai-developments
+  - ai-impact-on-society
+  - human-connection
+  - implementation
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Europe/London
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+# Navigation
+header:
+  overlay_color: "#1a365d"
+
+# Defaults
+defaults:
+  # All pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      toc: true
+      toc_sticky: true
+  # Posts/Articles  
+  - scope:
+      path: "ai-developments"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "main"
+  - scope:
+      path: "ai-impact-on-society"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "main"
+  - scope:
+      path: "human-connection"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "main"
+  - scope:
+      path: "implementation"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "main"
+
+# Analytics (optional - add your tracking ID)
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-XXXXXXXXXX"
