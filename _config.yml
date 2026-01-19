@@ -1,63 +1,93 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+
 # Site Settings
+locale: "en-GB"
 title: "AI and Human Connection in Accountancy"
-subtitle: "How accounting firms can thrive through AI mastery and human connection"
+title_separator: "|"
+subtitle: "How accounting firms can thrive"
 name: "Dr Ian Gregory"
-description: >-
-  Strategic framework for accounting transformation as AI reshapes the profession.
-  Based on a decade of experience in the accounting sector.
-url: "https://drigregory.github.io"
-baseurl: "/ai-and-human-connection"
+description: "Strategic framework for accounting transformation as AI reshapes the profession."
+url: "https://ian-gregory.com"
+baseurl: ""
 repository: "drigregory/ai-and-human-connection"
 
-# Theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "default"  # Options: default, air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+# Build settings
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: "default"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
 # Site Author
 author:
   name: "Dr Ian Gregory"
-  bio: "CTO of Advancetrack. Career spanning engineering, management consultancy, accounting and academia. Former MBA lecturer at Warwick and Bradford."
+  bio: "CTO of Advancetrack. Engineering, management consultancy, accounting and academia."
   location: "United Kingdom"
   links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/YOUR-LINKEDIN"
     - label: "Advancetrack"
-      icon: "fas fa-fw fa-building"
+      icon: "fas fa-fw fa-link"
       url: "https://advancetrack.com"
 
 # Reading Files
 include:
   - _pages
-  - ai-developments
-  - ai-impact-on-society
-  - human-connection
-  - implementation
+
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+
+# Markdown Processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
 
 # Outputting
 permalink: /:categories/:title/
 timezone: Europe/London
 
 # Pagination
-paginate: 10
+paginate: 5
 paginate_path: /page:num/
-
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-seo-tag
-  - jekyll-relative-links
-
-# Navigation
-header:
-  overlay_color: "#1a365d"
 
 # Defaults
 defaults:
-  # All pages
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -67,7 +97,7 @@ defaults:
       read_time: true
       toc: true
       toc_sticky: true
-  # Posts/Articles  
+  # content folders
   - scope:
       path: "ai-developments"
     values:
@@ -75,9 +105,6 @@ defaults:
       author_profile: true
       read_time: true
       toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "main"
   - scope:
       path: "ai-impact-on-society"
     values:
@@ -85,9 +112,6 @@ defaults:
       author_profile: true
       read_time: true
       toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "main"
   - scope:
       path: "human-connection"
     values:
@@ -95,9 +119,6 @@ defaults:
       author_profile: true
       read_time: true
       toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "main"
   - scope:
       path: "implementation"
     values:
@@ -105,12 +126,3 @@ defaults:
       author_profile: true
       read_time: true
       toc: true
-      toc_sticky: true
-      sidebar:
-        nav: "main"
-
-# Analytics (optional - add your tracking ID)
-# analytics:
-#   provider: "google-gtag"
-#   google:
-#     tracking_id: "G-XXXXXXXXXX"
