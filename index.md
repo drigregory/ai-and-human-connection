@@ -94,15 +94,40 @@ Practical steps for transforming your practice for the AI era.
 
 ## Latest Articles
 
+### 2025
+
+#### January
+**[Tips for Accountants on the Ethical Use of AI](ai-developments/2025-01-31-ethical-ai-accountants.md)**
+**Financial Accountant (IFA)** · January 2025 · *Expert Interview*
+Expert guidance on ensuring ethical AI adoption in accounting, covering algorithmic bias, data privacy, and maintaining professional standards.
+[Read on Financial Accountant →](https://financialaccountant.co.uk/features/tips-for-ethical-ai/){: .btn .btn--primary}
+
+#### August
+** [Cybersecurity: Where is Your Firm's Weakest Link?](ai-developments/2025-08-04-podcast-cybersecurity-threats.md)**
+**Digi-Tools in Accrual World** · August 2025 · *40 min*
+Deep dive into the latest cybersecurity threats facing accounting firms, from AI-driven hacks to practical steps for protecting client data.
+[Listen on Digi-Tools →](https://digitoolsinaccrual.world/episode/is-your-firm-ready-for-the-latest-cybersecurity-threats-accounting-tech-news-and-reactions){: .btn .btn--primary}
+
+##### October
+**[The Double-Edged Sword of AI in Accounting](ai-impact-on-society/2025-10-09-podcast-double-edged-sword-ai.md)**
+**Accounting Voices Podcast** · October 2025 · *21 min*
+Discussion with Rob Brown on AI adoption strategies, data security priorities, process excellence before automation, and the shifting career ladder from pyramid to diamond.
+[Listen on Apple Podcasts →](https://podcasts.apple.com/us/podcast/the-double-edged-sword-of-ai-in-accounting/id1383372882?i=1000732146407){: .btn .btn--primary}
+
+#### November
+**[From Threat to Transformation: How GenAI is Redefining Roles in Accounting](ai-impact-on-society/2025-10-09-genai-redefining-accounting.md)**
+**The AI Journal** · November 2025 · *Bylined Article*
+A comprehensive analysis of how generative AI is shifting roles, reworking processes, and reshaping what accounting firms need from their people.
+[Read on The AI Journal →](https://aijourn.com/from-threat-to-transformation-how-genai-is-redefining-roles-in-accounting/){: .btn .btn--primary}
+
 ### 2026
 
 #### January
-
 **[An Introduction to Claude Skills](ai-developments/2026-01-18-claude-skills-intro.md)**  
 How I cut a 30-minute vendor due diligence task to 5 minutes using Claude Skills. 
-
-**[What will AI actually do to our economy](ai-developments/2026-01-25-what-will-ai-do-to-economy.md)**  
+**[What will AI actually do to our economy?](ai-developments/2026-01-25-what-will-ai-do-to-economy.md)**  
 What impact will AI have on the UK economy - a thought piece.
+
 
 ---
 
