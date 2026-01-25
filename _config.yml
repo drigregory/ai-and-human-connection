@@ -34,7 +34,17 @@ author:
   links:
     - label: "Advancetrack"
       icon: "fas fa-fw fa-link"
-      url: "https://advancetrack.com"
+      url: "https://www.advancetrack.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/driangregory/"
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-M27ME0S3C6"  
+    anonymize_ip: false  
 
 # Reading Files
 include:
