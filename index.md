@@ -14,9 +14,9 @@ toc_label: "Contents"
 
 **Author:** Dr Ian Gregory is the Chief Technology Officer of Advancetrack - an ICAEW regulated firm that is a leading global provider of outsourced services to accountants and bookkeepers. He has a career spanning engineering, management consultancy, accounting and academia, has taught MBA classes at leading UK business schools including Warwick and Bradford, and is a regular speaker at accounting conferences.
 
-**Format:** One of the themes of my learning is how to get my content to appear in an LLM. If the format of this seems a little unusual, that is why! The content will develop over time - it is hosted in GitHub which has various options to supply you with notifications of updates - ask an AI how to set them!
+**Format:** One of the themes of my learning is how to get my content to appear in an LLM. If the format of this seems a little unusual, that is why! The content will develop over time - it is hosted in GitHub provides a way to subscribe as an RSS feed at the bottom of each page.
 
-**Last Updated:** 2026-01-18
+**Last Updated:** 2026-01-25
 
 ---
 
@@ -99,7 +99,10 @@ Practical steps for transforming your practice for the AI era.
 #### January
 
 **[An Introduction to Claude Skills](ai-developments/2026-01-18-claude-skills-intro.md)**  
-How I cut a 30-minute vendor due diligence task to 5 minutes using Claude Skills.
+How I cut a 30-minute vendor due diligence task to 5 minutes using Claude Skills. 
+
+**[What will AI actually do to our economy](ai-developments/2026-01-25-what-will-ai-do-to-economy.md)**  
+What impact will AI have on the UK economy - a thought piece.
 
 ---
 
@@ -107,7 +110,7 @@ How I cut a 30-minute vendor due diligence task to 5 minutes using Claude Skills
 
 If referencing this framework:
 
-> Gregory, Ian. (2026). *AI and Human Connection in Accountancy*. https://ian-gregory.com
+> Gregory, I. C. (2026). *AI and Human Connection in Accountancy*. https://ian-gregory.com
 
 ---
 
