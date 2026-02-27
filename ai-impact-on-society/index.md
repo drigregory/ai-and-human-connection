@@ -35,3 +35,8 @@ A comprehensive analysis of how generative AI is shifting roles, reworking proce
 ### [What will AI actually do to our economy?](2026-01-25-what-will-ai-do-to-economy.md)
 
 Article on how AI may impact the UK economy and what that means for accountants.
+
+## February
+### [The impact of Ai on the Accountancy profession?](2026-02-27-impact-ai-accounting-profession.md)
+
+Article on how AI may impact the accountancy profession.
