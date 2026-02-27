@@ -26,8 +26,9 @@ AI is going to have massive repercussions for the Accountancy sector. Accounting
 ## Latest Articles
 
 - [An Introduction to Claude Skills](ai-developments/2026-01-18-claude-skills-intro.md) (January 2026)
+- [What will AI actually do to our economy?](ai-impact-on-society/2026-01-25-what-will-ai-do-to-economy.md) (January 2026)  
+- [The impact of Ai on the Accountancy profession?](ai-impact-on-society/2026-02-27-impact-ai-accounting-profession.md) (February 2026)
 
----
 
 ## Resources
 
