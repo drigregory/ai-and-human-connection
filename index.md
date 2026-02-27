@@ -144,6 +144,13 @@ How I cut a 30-minute vendor due diligence task to 5 minutes using Claude Skills
 
 What impact will AI have on the UK economy - a thought piece.
 
+#### February
+
+**[The impact of Ai on the Accountancy profession?](ai-impact-on-society/2026-02-27-impact-ai-accounting-profession.md)**
+
+Article on how AI may impact the accountancy profession - a thought piece
+
+
 
 ---
 
