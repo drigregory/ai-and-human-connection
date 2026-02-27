@@ -9,7 +9,7 @@ read_time: true
 ---
 
 ## Author's Note
-One of the abilities I am keen to explore with AI is how it can help me to write. This article was co-authored with Claude - I will write an article on my experiences when I have some more experience of working with it. Interestingly Claude was more optimistic on this topic than I was - it actually made me less worried.
+One of the abilities I am keen to explore with AI is how it can help me to write. This article was co-authored with Claude 4.5 Opus - I will write an article on my experiences when I have some more experience of working with it. Interestingly Claude was more optimistic on this topic than I was - it actually made me less worried.
 
 ## Executive Summary
 I am seriously concerned that AI use will cause unemployment that may spiral into economic issues for the UK. The central argument of this article is simple: what matters is not whether AI transforms the economy, but how quickly. Fast enough to outrun institutional adaptation, and we get disruption and suffering. Slow enough to allow adjustment, and we get managed transition.
